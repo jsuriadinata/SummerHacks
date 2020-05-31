@@ -1,0 +1,14 @@
+SocialGoals/node_modules/**/*
+SocialGoals/.expo/*
+SocialGoals/npm-debug.*
+SocialGoals/*.jks
+SocialGoals/*.p8
+SocialGoals/*.p12
+SocialGoals/*.key
+SocialGoals/*.mobileprovision
+SocialGoals/*.orig.*
+SocialGoals/web-build/
+SocialGoals/web-report/
+
+# macOS
+SocialGoals/.DS_Store
